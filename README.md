@@ -42,3 +42,9 @@ Frontend Developer | HND in Computing Graduate
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvethiruve74&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/ruvethiruve74?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/ruvethiruve74?style=for-the-badge">
+<img src="https://img.shields.io/badge/Repositories-7-blue?style=for-the-badge&logo=github">
+</p>
