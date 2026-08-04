@@ -28,3 +28,17 @@ Frontend Developer | HND in Computing Graduate
 ## 📈 Contribution Graph
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruvethiruve74&theme=tokyonight)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruvethiruve74&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruvethiruve74&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvethiruve74&layout=compact&theme=tokyonight" />
+</p>
