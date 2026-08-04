@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ruvethikka Sireetharan</h1>
 
-<!--
-**ruvethiruve74/ruvethiruve74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | HND in Computing Graduate
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Ruvethikka%20Sireetharan&fontSize=40&fontColor=ffffff"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Learning React, TypeScript & NestJS
+- 💻 Frontend Developer
+- 🎓 HND in Computing Graduate
+- 📧 ruvethiruve74@gmail.com
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nodejs,php,mysql,java,git,github" />
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ruvethiruve74&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruvethiruve74&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruvethiruve74&theme=tokyonight)
